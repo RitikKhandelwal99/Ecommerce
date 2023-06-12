@@ -1,0 +1,50 @@
+.nav-link{
+  
+  border:1px solid;
+  height:30px;
+  width:100%;
+padding-left:970px;
+background-color: brown;
+  
+
+}
+
+.test{
+  
+  border:1px inset;
+  height:220px;
+  width:650px;
+  margin-left:340px;
+  padding-top:30px;
+}
+.top{
+  padding-left:360px;
+  padding-top:150px;
+}
+.test{
+  display:flex;
+  justify-content: left;
+  padding-left:20px;
+}
+
+#tost,#taste,#ton,#cold{
+  height:30px;
+  width:220px;
+}
+.toi{
+  display:flex;
+  justify-content: right;
+  padding-left:20px;
+  
+}
+.temp{
+  display:flex;
+  justify-content: left;
+  margin-top:60px;
+  margin-right:230px;
+}
+
+
+
+
+
